@@ -1,0 +1,31 @@
+[{
+	"sigla": "IND",
+	"name": "India",
+	"population": 1000000,
+	"listOfStates": [
+		"Madhya Pradesh",
+		"Maharastra",
+		"Rajasthan"
+	]
+},
+{
+	"sigla": "BRA",
+	"name": "Brazil",
+	"population": 200000,
+	"listOfStates": [
+		"Sao Paulo",
+		"Rio de Janeiro",
+		"Minas Gerais"
+	]
+},
+{
+	"sigla": "EUA",
+	"name": "Estados Unidos",
+	"population": 1500000,
+	"listOfStates": [
+		"California",
+		"Miame",
+		"Indiana"
+	]
+}
+]
